@@ -1,0 +1,15 @@
+.body {
+    background-color: blue;
+    margin: auto;
+    padding: 5px;
+    font: 1em sans-serif;
+    color: rgb(241, 238, 238);
+}
+
+.body div {
+    color: aliceblue;
+    background-color: black;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 2px;
+}
